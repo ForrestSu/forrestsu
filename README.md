@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-### Top langs 📈 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestSu&layout=compact&theme=radical)
-
 ### Show Daily & Weekly Activity 🔥
 ![🔥 GitHub Streak](https://streak-stats.demolab.com/?user=ForrestSu&theme=radical)
 
@@ -11,6 +7,8 @@
 ### GitHub Contribution Chart 📈
 [![Arshia's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForrestSu&theme=radical)](https://github.com/ForrestSu)
 
+### Top langs 📈 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestSu&layout=compact&theme=radical)
 
 
 
