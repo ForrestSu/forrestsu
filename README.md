@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ForrestSu&theme=merko&show_icons=true&hide_title=true&hide_rank=false&hide=issues&count_private=false&disable_animations=true"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestSu&theme=merko&layout=compact&langs_count=4&hide=javascript,html,css"/>
-</p>
+### Top langs 📈 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestSu&layout=compact&theme=radical)
+
+### Show Daily & Weekly Activity 🔥
+![🔥 GitHub Streak](https://streak-stats.demolab.com/?user=ForrestSu&theme=radical)
+
+
+### GitHub Contribution Chart 📈
+[![Arshia's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForrestSu&theme=radical)](https://github.com/ForrestSu)
+
+
+
 
 <!--
 **ForrestSu/forrestsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
